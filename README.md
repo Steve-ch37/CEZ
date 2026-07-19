@@ -1,4 +1,4 @@
 # CEZ
-**The EZ programming language, an easy, fast and light language.**
+**The EZ programming language is an easy, fast and light language.**
 
-CEZ 0.1.1 will release in July.
+CEZ 0.1.1 will be released in August, 2026.
